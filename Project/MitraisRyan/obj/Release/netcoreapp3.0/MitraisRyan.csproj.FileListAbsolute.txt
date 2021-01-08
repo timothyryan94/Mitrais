@@ -1,0 +1,11 @@
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.exe
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.deps.json
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.runtimeconfig.json
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.runtimeconfig.dev.json
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.dll
+D:\Project\MitraisRyan\bin\Release\netcoreapp3.0\MitraisRyan.pdb
+D:\Project\MitraisRyan\obj\Release\netcoreapp3.0\MitraisRyan.csprojAssemblyReference.cache
+D:\Project\MitraisRyan\obj\Release\netcoreapp3.0\MitraisRyan.AssemblyInfoInputs.cache
+D:\Project\MitraisRyan\obj\Release\netcoreapp3.0\MitraisRyan.AssemblyInfo.cs
+D:\Project\MitraisRyan\obj\Release\netcoreapp3.0\MitraisRyan.dll
+D:\Project\MitraisRyan\obj\Release\netcoreapp3.0\MitraisRyan.pdb
